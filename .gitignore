@@ -1,0 +1,17 @@
+# Visual Studio tarafından oluşturulan geçici klasörler
+.vs/
+bin/
+obj/
+
+# Kullanıcı ayarları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sistem dosyaları
+*.log
+*.tmp
+*.db
+*.DS_Store
+Thumbs.db
